@@ -10,8 +10,15 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**Choose a category**
-Please apply one of the Category labels using the options menu on the right.
+**Category**
+- [x] Graphics
+- [ ] Audio
+- [ ] UI
+- [ ] Player Control
+- [ ] Game Contant
+- [ ] Game Balance
+- [ ] Networking
+- [ ] Other
 
 **To Reproduce**
 Steps to reproduce the behavior:
