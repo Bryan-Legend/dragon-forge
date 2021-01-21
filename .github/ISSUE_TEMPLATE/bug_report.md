@@ -10,6 +10,9 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Choose a category**
+Please apply one of the Category labels using the options menu on the right.
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
