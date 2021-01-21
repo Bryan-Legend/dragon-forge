@@ -11,14 +11,14 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **Category**
-- [x] Graphics
+- [ ] Graphics
 - [ ] Audio
 - [ ] UI
 - [ ] Player Control
 - [ ] Game Contant
 - [ ] Game Balance
 - [ ] Networking
-- [ ] Other
+- [x] Other
 
 **To Reproduce**
 Steps to reproduce the behavior:
