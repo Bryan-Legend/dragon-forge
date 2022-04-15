@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"POT-Creation-Date: Friday, April 15, 2022 11:17:29 AM\n"
+"Project-Id-Version: Dragon Forge 0.0.0.0\n"
+
+msgid "GRAPHICS"
+msgstr ""
+
+msgid "AUDIO"
+msgstr ""
+
+msgid "SETTINGS"
+msgstr ""
+
+msgid "SCREEN RESOLUTION"
+msgstr ""
+
+msgid "App_Name"
+msgstr "Dragon Forge"
+
+msgid "FULL SCREEN"
+msgstr ""
+
+msgid "GRAPHICS QUALITY"
+msgstr ""
+
+msgid "GAME LANGUAGE"
+msgstr ""
+
+msgid "NUMBER FORMAT"
+msgstr ""
+
+msgid "MUSIC VOLUME"
+msgstr ""
+
+msgid "SOUND VOLUME"
+msgstr ""
+
+msgid "VERY SPECIAL THANKS"
+msgstr "VERY SPECIAL THANKS"
+
+msgid "THANK YOU FOR PLAYING"
+msgstr "♥ ♥ ♥ THANK YOU FOR PLAYING ♥ ♥ ♥\t"
+
+msgid "A GAME BY"
+msgstr ""
+
+msgid "START"
+msgstr ""
+
+msgid "OPTIONS"
+msgstr ""
+
+msgid "CREDITS"
+msgstr ""
+
+msgid "EXIT"
+msgstr ""
+
+msgid "BODY"
+msgstr ""
+
+msgid "SKIN"
+msgstr ""
+
+msgid "EYES"
+msgstr ""
+
+msgid "HORNS"
+msgstr ""
+
+msgid "SAVE"
+msgstr ""
+
+msgid "RECIPE"
+msgstr ""
+
+msgid "DELIVERY"
+msgstr ""
+
+msgid "REMOVE BUILDING"
+msgstr ""
+
+msgid "CHOOSE DELIVERY DESTINATIONS"
+msgstr ""
+
+msgid "PLAYER STATUS"
+msgstr ""
+
+msgid "STATUS"
+msgstr ""
+
+msgid "DAMAGE"
+msgstr ""
+
+msgid "ATTACK SPEED"
+msgstr ""
+
+msgid "AMMO USAGE"
+msgstr ""
+
+msgid "GROUND SPEED"
+msgstr ""
+
+msgid "FLY SPEED"
+msgstr ""
+
+msgid "MANA"
+msgstr ""
+
+msgid "CURRENT"
+msgstr ""
+
+msgid "INCOME"
+msgstr ""
+
+msgid "AUTOMATED INCOME"
+msgstr ""
+
+msgid "CONTROLS"
+msgstr ""
+
+msgid "RESUME"
+msgstr ""
+
+msgid "QUIT"
+msgstr ""
+
+msgid "INVENTORY"
+msgstr ""
+
+msgid "GAME PROGRESS"
+msgstr ""
+
+msgid "VIEW"
+msgstr ""
+
+msgid "FABLES OF ANCIENT WISDOM LEARNED"
+msgstr ""
+
+msgid "LANDS UNCURSED"
+msgstr ""
+
+msgid "QUESTS COMPLETED"
+msgstr ""
+
+msgid "ITEMS FOUND"
+msgstr ""
+
+msgid "RECIPES DISCOVERED"
+msgstr ""
+
+msgid "HIDDEN CARDS FOUND"
+msgstr ""
+
+msgid "RACES WON"
+msgstr ""
+
+msgid "FIGHT VICTORIES"
+msgstr ""
+
+msgid "FABLES OF ANCIENT WISDOM"
+msgstr ""
+
+msgid "QUESTS"
+msgstr ""
+
+msgid "CURRENT QUESTS"
+msgstr ""
+
+msgid "COMPLETED QUESTS"
+msgstr ""
+
+msgid "OKAY"
+msgstr ""
+
+msgid "CANCEL"
+msgstr ""
+
+msgid "MOVE"
+msgstr ""
+
+msgid "GAME CONTROLS"
+msgstr ""
+
+msgid "JUMP CLIMB"
+msgstr "JUMP / CLIMB"
+
+msgid "FLY"
+msgstr ""
+
+msgid "DIVE (FLYING)"
+msgstr ""
+
+msgid "ACTIVATE"
+msgstr ""
+
+msgid "ZOOM"
+msgstr ""
+
+msgid "ATTACK"
+msgstr ""
+
+msgid "RELOAD"
+msgstr ""
+
+msgid "WEAPON ITEM SELECT"
+msgstr ""
+
+msgid "PAUSE"
+msgstr ""
+
+msgid "CLOSE"
+msgstr ""
+
+msgid ""
+"Note: This limits number of SOURCE buildings that minions can deliver from. "
+"Each can deliver to unlimited destinations."
+msgstr ""
