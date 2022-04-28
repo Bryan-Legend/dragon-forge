@@ -3,6 +3,6 @@
 
 This repo is used to [track game bugs and suggestions](https://github.com/Bryan-Legend/dragon-forge/issues).
 
-It's also for managing the localization of the game via https://gitlocalize.com/repo/6746
+The Dragon Forge localizations are managed at https://crowdin.com/project/dragon-forge and contributions are welcome.
 
-[![gitlocalized ](https://gitlocalize.com/repo/6746/whole_project/badge.svg)](https://gitlocalize.com/repo/6746/whole_project?utm_source=badge)
+[![Crowdin](https://badges.crowdin.net/dragon-forge/localized.svg)](https://crowdin.com/project/dragon-forge)
