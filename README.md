@@ -1,6 +1,6 @@
 ![Box-Art-1920x1080-Centered](https://user-images.githubusercontent.com/920120/166291365-432f4304-8051-40e6-83c2-2e0805504b99.jpg)
 
-# dragon-forge
+# Dragon Forge
 [Dragon Forge](https://store.steampowered.com/app/1163930/Dragon_Forge/) is a base-building adventure game about managing massive amounts of resources by foraging and crafting. Born a dragon in a cursed land, you must work to lift the curse by creating abundance.
 
 ## Support
