@@ -7,6 +7,6 @@
 Please [create an issue or comment on an existing issue](https://github.com/Bryan-Legend/dragon-forge/issues) to recieve support for any problems with the game.
 
 ## Localization
-The Dragon Forge localizations are managed at https://crowdin.com/project/dragon-forge and contributions are welcome. You can signup and request an additional language to be added to the game. Free steam keys are available for major localization contributors.
+The Dragon Forge localizations are managed at https://crowdin.com/project/dragon-forge and contributions are welcome. You can signup and request an additional language to be added to the game or contribute improvements to an existing translation. Free steam keys are available for major localization contributors.
 
 [![Crowdin](https://badges.crowdin.net/dragon-forge/localized.svg)](https://crowdin.com/project/dragon-forge)
