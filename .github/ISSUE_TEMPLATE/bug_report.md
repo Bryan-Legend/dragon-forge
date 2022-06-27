@@ -28,3 +28,7 @@ If applicable, please grab and paste a screenshot here. Especially useful for vi
 
 **Additional context**
 Add any other context about the problem here.
+
+For hard game crashes please attach Player.log files from %USERPROFILE%\AppData\LocalLow\Legend Studio\Dragon Forge\
+Also check %TMP%\Legend Studio\Dragon Forge\ for crash dump files.
+
